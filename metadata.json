@@ -1,0 +1,6 @@
+{
+  "name": "Spotific",
+  "description": "Spotific - High-performance music streaming app with background audio playback, offline downloads, and live Spotify integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
